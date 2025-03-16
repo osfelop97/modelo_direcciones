@@ -1,0 +1,122 @@
+﻿Abreviatura,Significado,Palabra
+AC,Avenida_calle,"AVENIDA K, AVENIDA CALLE, Avenida Calle"
+AD,Administración,
+ADL,Adelante,
+AER,Aeropuerto,"AERP., AERO, Aeropuerto, AEROP, Aeropt, AEROP., aeropuerto, AEROPUERTO, Aerop"
+AG,Agencia,
+AGP,Agrupación,"AGRUPACIÓN, AGRUPACION"
+AK,Avenida_carrera,"AK., Av. Cra, av. Kr, Avenida Cra, Av Cr, Av C, AV KR, AK CRA, AV.CRA, Av. Cra., AVCARRERA, ak, avenida carrera, AV CRA, avenida cra, AVCRA, AVD CRA, ak., Av cr, Avenida Carrera, AV KRA, Av crr, AV CARRERA, Avenida Kra, Av cra, AVAK, AV CR, Ave Cra, Ave.Cra"
+AL,Altillo,
+ALD,Al_lado,
+ALM,Almacén,ALMACEN
+AP,Apartamento,"Ap., AP., APAR, APto., APT., APARTAME, APTO, Apartamen, Apartamento, apto, APARTAMENTO, APTO-, APTOS, APT, APARTAMENTOS"
+APTDO,Apartado,"APARTADO, APTOS, APARTADA"
+ATR,Atrás,
+AUT,Autopista,"aut, AUTO, AUTO., AU, AUTOP, AUTONORTE, AUTOPISTA, Aut, Auto., AUTP, Aut. AUT., AUTOPIASTA, AUTP.,, AUTOP., Autopista, autopista"
+AV,Avenida,"AV., AVD., Ave., ave, avenida, -AV, av, AVE., Av., AVDA, AVENIDA, Avd, Avenida, AVE, AVENIDAD, AVD, AVEN, Avda, avd, AV-, AVENDIA"
+AVIAL,Anillo_vial,"ANL, ANILLOVIAL, ANILLO VIAL"
+BG,Bodega,"Bodega, BOD, BDG, BODEG, BODEGA"
+BL,Bloque,"BLQ, bloq, Bloque, BLOQUE, Blq"
+BLV,Boulevard,
+BRR,Barrio,"BAARIO, BR., Barrio, BARRIO, B/, barrio, BR"
+C,Corregimiento,"CORREG., CORR, CORREG, CORREGIMIENT, CRR, CGTO, Cgto, CORREGIMIENTO"
+CA,Casa,"CS, cs, Casa, CASA"
+CAS,Caserío,
+CC,Centro_comercial,"CCO, C.CIAL, centro comercial, Centro comercial, CENTRO COMERCIAL, Centro Comercial, C.C, Centro Comercia, CENTRO COMERCIA, CENTRO COME, Cc, CENTRO C, CCIAL"
+CD,Ciudadela,CIUDADELA
+CEL,Célula,
+CEN,Centro,"Centro, CTO, CENTRO, CTRO"
+CIR,Circular,CIR.
+CL,Calle,"CALL, CALLE., Cl, -CL., cl, CALE, C L L, -CALLE, clle, Callle, CALLE, -Cll,, callle, -C L, cale, cll, CALLA, CLLES, Calle, call, CSALL E, Calle., CALL E, CALLAE, CL., CLE, CALLE-, CLE., CLL, CLLE, calle, CALLÁ, Cll"
+CLJ,Callejón,CALLEJON
+CN,Camino,
+CON,Conjunto_residencial,"Conjunto r, CD, CONJ RESID"
+CONJ,Conjunto,"CONJUNT, CONJUNTO, CON, CONJ."
+CR,Carrera,"CARREREA, CARA, CARRA, cra, Crr, CAR, CARRERAS, KARRERA, CARRER, CARRE, K, CARRERA, Cr., carr., kr., karrera, CRRA, KRA, CRA., Carra, KRR, Cra., CR., CARREARA, KR, CARRRA, -CARRERA, kra, car, cre, CARERA, Cra, CARERRA, CRRERA., carrrera, carreara, Carrera, carrera, CRR, crr, carrea, AC CRA, CRF, CRA, cr, CR, CVRA, carrerra"
+CRT,Carretera,"CARRARERA, ca, CTA, CRRE, CARRET, CARRETERA, CT"
+CRV,Circunvalar,"Circunvalar, CIRCUN, CIRCUMBALAR, CIRCUNVALAR, Crv,"
+CS,Consultorio,"CO, CONS, CONSULTORIO"
+DG,Diagonal,"DIAG., Diagonal, DIAG, DIAGONAL, diagonal, DI, dig, Dg., diagonal., digonal, DIG, diagomal, Diagona"
+DP,Depósito,
+DPTO,Departamento,"DP, DA"
+DS,Depósito_sótano,
+ED,Edificio,"EDIF, ED., EDF, EDIFI, EDI, EDIFICIO"
+EN,Entrada,"ENTRADA, ENTR., ENTRE, Entrada"
+ES,Escalera,
+ESQ,Esquina,"ESQ., ESQUI, esqina, ESQUINA, Esquina"
+ESTE,Este,"Este, este"
+ET,Etapa,"ETAPA, ETP"
+EX,Exterior,
+FCA,Finca,"FC, Finca, FINCA, finca"
+GJ,Garaje,
+GS,Garaje_sótano,
+GT,Glorieta,
+HC,Hacienda,"hacienda, HACIENDA"
+HG,Hangar,
+IN,Interior,"INT, Interior, Int, INTERIOR, int"
+IP,Inspección_de_Policía,
+IPD,Inspección_Departamental,
+IPM,Inspección_Municipal,
+KM,Kilómetro,"KL, K.M, Kilónmetro, km., KILOMETRO, KMS, Kilometro"
+LC,Local,"LOC., Locales, LOCAL, L, LO, local, Local, LOC, Lc"
+LM,Local_mezzanine,
+LT,Lote,"LOT, Lote, LTE, LOTES, lote, LOTE"
+MD,Módulo,"MDL, MODULO"
+MJ,Mojón,
+MLL,Muelle,
+MN,Mezzanine,
+MZ,Manzana,"MANZANA, Manzana, MZ., MANZ, M"
+NOMBRE VIA,Vías_de_nombre_común,"VIA LA CALERA, VIA BOGOTA. VIA FGGTA, VIA LADRILLERA, VIA PARCELAS, VIA SANTANA, VIA VILLAVICENCIO - BOGOTA KILOMETRO, VIA PARQUE CENTRAL, VIA EL CERRITO, VIA CAFE, VIA CARCEL MODELO F, VIA DUITAMA, VIA GUACAS EL JAZMIN, VIA 40-190, VIA PALENQUE, VIA HUEVOS ORO, via puente peralta, VIA MARTICAS, VIA GUATEQUE, VIA BGTA - GIRARDOT PREDIO, VPA CONDINA, via Granabastos, VIA UREÑA TORRE, VIA DUITAMA BELENCI, VIA ZIPAQUIRA, VIA RIOHACHA - TRONC, VIA MONIQUIRA - BARBOSA, VIA A LA VIGINIA, VIA LA TEBAIDA, VIA SA, Via Crv, VIA PR, VIA MESITAS, VIA CAJICA, VIA SABANADE TORRES, VIA SANTA MA, VIA BOGOTA RICAURTE, VIA EL PORTICO, VIA AL  AGRADO, VIA PALMIRA EL CERRITO, VIA MAICAO, VIA AL CEMENTERIO, VIA ARMENIA, VIA MONTERIA, VIA COMERCIAL, VIA ANAPOMA, VIA MAJAGUAL, VIA AL MAGDALE, VIA PEATONAL, VIA PEREIRA, VIA TRONCAL DEL CARIBE, VIA AL MAR, VIA PRINCIPAL, VIA UBATE, VIA TITAN, VIA DAGUA, VIA PALENQUE CAFE MADRID, VIA TUNJA, VIA AL SUR, VIA CALI CANDELARIA, VIA USME, VIA MELGAR, VIA IB, VIA ECOPETROL, VIA LLANOGRANDE, VIA TIBACUY, VIA ANILLO, VIA SOPO, VIA PUERTO TEJADA, VIA ALBAN SASAIMA, VIA SILVANA SUBIA EL VERGEL, VIA TOM HOOKER, VIA SAN GIL BUCARAMANGA, VIA PASCA, VIA QUIBA KILOMETRO, VIA CIENEGA, VIA PONEDERA - PALMAR D, VIA MOSQUERA, VIA LA PINTADA, VIA T, VIA LA CEJA, VIA COTA, VIA PUEBLO TAPAO, VIA LA VORAGINE, VIA 40, VIA SAN MARTIN, via 40, VIA BUCARAMANGA, VIA CALI, VIA AL VALLE, VIA RIO, VIA CERROMATOSO, VIA BOGOTÁ - MESI, VIA A L, VIA SAN LUIS, VIA PEÑOL, VIA VILLA ROSA MANATI, VIA km 2.5, VIA CIENAGA DE ORO LA YE, VIA VILLA VICENCIO, VIA PALENCIA CAFÉ MADRID, VIA SUBA, VIA DUITAMA BELENCITO, VIA CHIA CAJICA, Via 40, VIA  PEREIRA, VIA PANAMERICANA"
+NORTE,Norte,"NT, NTE, AN, N"
+O,Oriente,ORIENTAL
+OCC,Occidente,"Occidente, OCCIDENTAL, OCCIDENTE, OCC."
+OESTE,Oeste,"Oeste, OO"
+OF,Oficina,"OFICINA, Ofc, Oficina, OFC, Of, OFIC, OFC., OF.,OFI, OFIC.,, oficina"
+P,Piso,"piso, PI, Piso, PIS, P., PISO, NIVEL"
+PA,Parcela,PARCELA
+PAR,Parque,"PARQUE, PQ,"
+PD,Predio,
+PH,Penthouse,
+PJ,Pasaje,PASAJE
+PL,Planta,PLANTA
+PN,Puente,
+POR,Portería,
+POS,Poste,
+PQ,Parqueadero,
+PRJ,Paraje,
+PS,Paseo,
+PT,Puesto,
+PW,Park_Way,
+RP,Round_Point,
+SA,Salón,
+SC,Salón_comunal,
+SD,Salida,
+SEC,Sector,"SECT, SECTOR, SEC.,, sector, SC"
+SL,Solar,
+SM,Súper_manzana,
+SS,Semisótano,
+ST,Sótano,
+SUITE,Suite,
+SUR,Sur,"Sur, SIR, sur"
+TER,Terminal,"TERMINAL, TERM"
+TERPLN,Terraplén,
+TO,Torre,"Torre, torre, TP, TRR, TORRE, T"
+TV,Transversal,"Transversa, TRANSVERSAL, TRANOV, Tranversal, TRN, TRANS, transversal, tv, TR, Tran, TV., tranvesarl, TRAS, Transversal, TRASVERSAL, TRAVERSAL, TRANSV, TRV., trasversal, TRANV, Trv., Transv., Tranv, tranvesal, TRAV, TRV"
+TZ,Terraza,
+UN,Unidad,
+UR,Unidad_residencial,
+URB,Urbanización,"Urb., URBANIZACION, Urbanizaciónn, URB."
+VRD,Vereda,"VDA, VD, VDA., Vereda, VER, VRDA., Vda, VEREDA, vereda"
+VTE,Variante,"variante, VARIANTE, Variante"
+ZF,Zona_franca,"ZONA FRANCA, Zon Franca, Zona franca"
+ZN,Zona,ZONA
+PT,Puestos,PTS
+MT,Metro_-(Distancia),MTR
+NO,Número,"N R O, NRO., NUMERO, NRO, Nro, No, N, N°, N0, NUM, #, NO., NR, N U M E R"
+MP,Municipio,"MPIO, MCP, MUNICIPIO"
+CP,Carril_Principal,
+IN,INSPECCIÓN,"inspeccion, INSP, INSPECCION"
+SA,Sala_de_venta,"SALA DE VENTA,"
+PT,Puerto,"PTO, PUERTO"
+DI,Division,DIV
+AG,Agrupacion,AGP

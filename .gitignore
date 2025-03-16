@@ -1,0 +1,38 @@
+# Ignorar archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos compilados de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de sistema operativo
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Ignorar directorios de dependencias
+node_modules/
+.venv/
+env/
+dist/
+build/
+
+# Ignorar archivos de base de datos
+*.sqlite3
+
+# Ignorar archivos de claves y credenciales
+*.pem
+*.key
+*.env
+
+# Ignorar archivos de salida
+*.out
+*.bak
+
+# Ignorar archivos temporales
+*.swp
+*.swo
